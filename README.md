@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/qyhchy999-jpg/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/rank.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
 [![reward](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/qyhchy999-jpg/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/reward.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
 
-One job title — the weirdest we could think of: "Professional Apologizer to Houseplants". It sounds like a real job — "Professional" plus a plausible-sounding role — and then the twist lands: the clients are houseplants. The specificity sells it: not plants in general, but the ones you forgot to water, and the job is apologizing to them. A real-sounding title with one hilariously specific twist beats a generic oddity.
+One job title, 44 characters — the weirdest we could think of: "Official Greeter of Abandoned Shopping Carts". It sounds like a real job — "Official Greeter" plus a plausible-sounding role — and then the twist lands: the clients are shopping carts that someone left in the middle of a parking lot. The specificity sells it: not carts in general, but the abandoned ones, and the job is greeting them, as if they were customers who simply wandered off. A real-sounding title with one hilariously specific twist beats a generic oddity.
 
 ## Entry
 
@@ -22,5 +22,5 @@ Then check the output is UTF-8 text of 1 to 60 characters, and run it twice to c
 
 MIT — see [LICENSE](LICENSE).
 
-<!-- Second pass: the apology is the job — the plants never forgive, the pay is exposure. -->
-<!-- Third pass: one specific twist beats a generic oddity — the clients are houseplants. -->
+<!-- Rewritten 2026-11-27: the greeter replaces the houseplant apologizer — the carts never answer. -->
+<!-- One specific twist beats a generic oddity — the clients are abandoned shopping carts. -->
