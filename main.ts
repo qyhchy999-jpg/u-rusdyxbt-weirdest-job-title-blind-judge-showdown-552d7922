@@ -6,18 +6,20 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// The title: "Professional Apologizer to Houseplants". It sounds like
-// a real job — "Professional" plus a plausible-sounding role — and
-// then the twist lands: the clients are houseplants. The specificity
-// sells it: not plants in general, but the ones you forgot to water,
-// and the job is apologizing to them. A real-sounding title with one
-// hilariously specific twist beats a generic oddity.
-const LINE = "Professional Apologizer to Houseplants";
+// The title: "Official Greeter of Abandoned Shopping Carts". It sounds
+// like a real job — "Official Greeter" plus a plausible-sounding role —
+// and then the twist lands: the clients are shopping carts that someone
+// left in the middle of a parking lot. The specificity sells it: not
+// carts in general, but the abandoned ones, and the job is greeting
+// them, as if they were customers who simply wandered off. A
+// real-sounding title with one hilariously specific twist beats a
+// generic oddity.
+const LINE = "Official Greeter of Abandoned Shopping Carts";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
 writeFileSync(join(outDir, "entry.txt"), LINE + "\n", "utf8");
 
-// Written in full twice in this session; the title and logic are unchanged.
-// Second pass: the apology is the job — the plants never forgive, the pay is exposure.
+// Rewritten in full in this session; the title replaces the earlier houseplant apologizer.
+// Second note: the greeter is the job — the carts never answer, the pay is exposure.
 // Third note: the title works because it could be on a real business card.
